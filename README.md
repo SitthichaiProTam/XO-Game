@@ -79,7 +79,7 @@ The XO Game App is a Kotlin-based Android application that allows users to play 
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-repository/XOGameApp.git
+   [git clone https://github.com/your-repository/XOGameApp.git](https://github.com/SitthichaiProTam/XO-Game.git)
    ```
 
 2. Open the project in Android Studio.
@@ -128,11 +128,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## Acknowledgements
 - Jetpack Compose for UI components.
 - SQLite for local data storage.
@@ -140,5 +135,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-**Developed by Big Boom.**
+**Developed by Sitthichai.**
 
